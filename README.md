@@ -1,2 +1,2 @@
-# CodeWarz
-Various coding tasks from codewatz.com
+# CodeWars
+Various coding katas from codewars.com
